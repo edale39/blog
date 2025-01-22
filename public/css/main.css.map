@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/eric/Documents/quickstart",
+	"sourceRoot": "/Users/eric/Documents/parkerprosper.github.io",
 	"sources": [
 		"themes/no-style-please/assets/css/main.scss"
 	],
